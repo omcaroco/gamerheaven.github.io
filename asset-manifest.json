@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gamerheaven.github.io/static/css/main.3e46aad0.css",
-    "main.js": "/gamerheaven.github.io/static/js/main.86255c46.js",
+    "main.css": "/gamerheaven.github.io/static/css/main.b294f38b.css",
+    "main.js": "/gamerheaven.github.io/static/js/main.c2ffd5ca.js",
     "static/js/787.c7e5e368.chunk.js": "/gamerheaven.github.io/static/js/787.c7e5e368.chunk.js",
     "static/media/banner1.jpg": "/gamerheaven.github.io/static/media/banner1.4c7f55f23d7f26e7d404.jpg",
     "static/media/logo.svg": "/gamerheaven.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/gamerheaven.github.io/index.html",
-    "main.3e46aad0.css.map": "/gamerheaven.github.io/static/css/main.3e46aad0.css.map",
-    "main.86255c46.js.map": "/gamerheaven.github.io/static/js/main.86255c46.js.map",
+    "main.b294f38b.css.map": "/gamerheaven.github.io/static/css/main.b294f38b.css.map",
+    "main.c2ffd5ca.js.map": "/gamerheaven.github.io/static/js/main.c2ffd5ca.js.map",
     "787.c7e5e368.chunk.js.map": "/gamerheaven.github.io/static/js/787.c7e5e368.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e46aad0.css",
-    "static/js/main.86255c46.js"
+    "static/css/main.b294f38b.css",
+    "static/js/main.c2ffd5ca.js"
   ]
 }
